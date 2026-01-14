@@ -201,7 +201,7 @@ body{ font-family: Arial,
   top:2px;
   width:20px;
   height:20px;
-  background-image:url("B13-A01-Knowledge-Vault/assets/CheckCircle.png");
+  background-image:url("./assets/hero-bg.png");
   background-size:contain;
   background-repeat:no-repeat;
 }
