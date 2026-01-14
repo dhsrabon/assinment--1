@@ -201,7 +201,7 @@ body{ font-family: Arial,
   top:2px;
   width:20px;
   height:20px;
-  background-image:url("./assets/hero-bg.png");
+  background-image:url("./assets/CheckCircle.png");
   background-size:contain;
   background-repeat:no-repeat;
 }
