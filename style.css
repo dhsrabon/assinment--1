@@ -38,7 +38,7 @@ body{ font-family: Arial,
 
 .banner{
   background: linear-gradient(rgba(2,6,23,.7), rgba(2,6,23,.7)),
-              url("B13-A01-Knowledge-Vault/assets/hero-bg.png") center/cover;
+              url("./assets/hero-bg.png") center/cover;
   padding:122px 22px;
   color:#fff;
 }
